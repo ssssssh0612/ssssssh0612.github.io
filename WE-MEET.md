@@ -1,3 +1,3 @@
 layout: page
 title: "WE-MEET"
-permalink: /pin/blue
+permalink: /pin/blue/
