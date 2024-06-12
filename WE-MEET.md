@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLE"
+title: "WE-MEET"
 permalink: /pin/blue
